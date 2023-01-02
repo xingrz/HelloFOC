@@ -2,6 +2,7 @@
 *-bak
 *.bck
 fp-info-cache
+sym-lib-table
 *-cache.lib
 *.zip
 *.kicad_prl
